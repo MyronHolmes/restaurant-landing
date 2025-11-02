@@ -42,3 +42,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ![Adobe Express - Screen Recording 2025-11-02 at 1 18 39 PM](https://github.com/user-attachments/assets/0134a3bd-50ba-4e5d-b151-b4f2f28b0175)
 
 ![Adobe Express - Screen Recording 2025-11-02 at 1 33 09 PM](https://github.com/user-attachments/assets/1060de47-2242-4cdf-b931-d8dbca49cfbc)
+
+![Adobe Express - Screen Recording 2025-11-02 at 2 07 44 PM](https://github.com/user-attachments/assets/560f23b7-2f64-412b-9f40-dc9837cf16a2)
