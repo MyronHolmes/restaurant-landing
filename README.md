@@ -36,6 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 ![Adobe Express - Screen Recording 2025-11-02 at 1 08 44 PM](https://github.com/user-attachments/assets/646995f2-a407-4ebe-b78c-6389a877a8de)
+
 ![Adobe Express - Screen Recording 2025-11-02 at 12 52 13 PM](https://github.com/user-attachments/assets/0bcb1f57-51e5-4a47-93db-e5898500fd9c)
 
-
+![Adobe Express - Screen Recording 2025-11-02 at 1 18 39 PM](https://github.com/user-attachments/assets/0134a3bd-50ba-4e5d-b151-b4f2f28b0175)
